@@ -1,3 +1,4 @@
 commit 2 
 Commit 3 
-Conflict 2
+Conflict 1
+
